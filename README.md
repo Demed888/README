@@ -2,5 +2,5 @@
 ___
 ## Practicas profesionalizantes |
 ___
-#HOLA
+# H O L A
 
